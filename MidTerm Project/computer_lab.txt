@@ -1,0 +1,21 @@
+
+
+PC number : 1
+	Operating system : Linux
+	Status : Ok
+
+PC number : 2
+	Operating system : Linux
+	Status : NotOK
+
+PC number : 3
+	Operating system : MacOS
+	Status : Ok
+
+PC number : 4
+	Operating system : Windows
+	Status : Ok
+
+PC number : 0
+	Operating system : Linux
+	Status : OK
